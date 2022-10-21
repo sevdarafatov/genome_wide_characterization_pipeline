@@ -7,6 +7,6 @@ These set of scripts is designed to do genome wide characterization by using SRA
 3. Obtaining unique ID's
 4. Extracting seqeunces with same ID from the text
 5. Counting numbers of sequences
-6. Samtools sort for sorting by coordinates
-7. Samtools index for indexing
+6. samtools sort --> sorting by coordinates
+7. samtools index --> indexing
 8. featureCounts --> obtaining counts
